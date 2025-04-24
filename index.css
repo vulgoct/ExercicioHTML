@@ -1,0 +1,41 @@
+img{
+    margin: 30px;
+    width: 140px;
+    height: 140px;
+    border-radius: 80px;
+    box-shadow: 7px 8px 14px 2px #dd7c8d;
+    margin-top: 75px;
+}
+
+body{
+    margin: 0px;
+}
+
+header{
+    background-color: rgb(238, 119, 139);
+    width: 100%;
+    position: fixed;
+
+}
+
+.name{
+    font-size: 30px;
+    margin: 20px;
+}
+
+.infpess{
+    font-size: 15px;
+    margin: 20px;
+}
+.expaprof{
+    font-size: 15px;
+    margin: 20px;
+}
+.expacad{
+    font-size: 15px;
+    margin: 20px;
+}
+.contact{
+    font-size: 15px;
+    margin: 20px;
+}
